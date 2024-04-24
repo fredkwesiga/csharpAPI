@@ -30,3 +30,4 @@
 /Users/fred/Desktop/Learning CSHARP/API/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /Users/fred/Desktop/Learning CSHARP/API/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /Users/fred/Desktop/Learning CSHARP/API/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/fred/Desktop/Learning CSHARP/API/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
